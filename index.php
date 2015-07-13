@@ -6,7 +6,6 @@
 			Mark went to Hampshire college, in Amherst, MA and majored in Photograpahy.</p>
 		<p>This is what's in Mark's head<br>
 			<img src="images/head.jpg" alt="MRI"</p>
-
-
+		<p>Many years of being a hockey goalie has led to <b>multiple</b> concussions.</p>
 	</body>
 </html>
